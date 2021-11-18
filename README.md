@@ -12,7 +12,7 @@
 
 <br><br>
 
-### List of superpowers in Scss?
+### List of superpowers in Scss:
 
 <ul>
   <li>Operators</li>
